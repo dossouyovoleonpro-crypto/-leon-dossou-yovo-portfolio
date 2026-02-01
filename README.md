@@ -1,35 +1,35 @@
 # Léon DOSSOU-YOVO
 
-🎯 **Étudiant en Bachelor – SUPINFO Lyon**  
-🔧 **Objectif : Alternance en Systèmes & Réseaux**  
+🎯 Étudiant en Bachelor – SUPINFO Lyon  
+🔧 Objectif : Alternance en Systèmes & Réseaux  
 📍 Lyon, France  
 
 ---
 
 ## 👋 À propos
 
-Actuellement en 2ᵉ année de Bachelor à SUPINFO, je me spécialise dans les **systèmes**, les **réseaux** et l’**administration informatique**.  
-J’aime travailler sur des environnements Windows Server, Linux, AWS et participer à l’amélioration des infrastructures.
+Étudiant en 2ᵉ année de Bachelor à SUPINFO, je me spécialise dans les systèmes, les réseaux et l’administration informatique.  
+J’aime travailler sur Windows Server, Linux, AWS et l’optimisation d’infrastructures.
 
-Je suis motivé, sérieux et toujours volontaire pour apprendre et comprendre en profondeur le fonctionnement d’un système.
+Je suis motivé, curieux et toujours prêt à apprendre.
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-### **Systèmes & Réseaux**
+### Systèmes & Réseaux
 - Windows Server  
 - Linux / Ubuntu  
 - AWS  
 - Office 365  
 - VMware / Hyper-V  
 
-### **Développement**
+### Développement
 - Java, Python, C++, PHP, HTML/CSS  
 - React, Node.js, Symfony  
 - Unity / C#
 
-### **Outils**
+### Outils
 - Git / GitHub  
 - Visual Studio Code  
 - IntelliJ IDEA  
@@ -39,40 +39,41 @@ Je suis motivé, sérieux et toujours volontaire pour apprendre et comprendre en
 
 ## 💼 Expériences
 
-### **Administrateur Réseaux & Exploitation – Stage (2025)**  
-**CONNECTIS SYSTÈME – 3 mois, Montpellier**  
+### Administrateur Réseaux & Exploitation – Stage (2025)  
+CONNECTIS SYSTÈME  
 - Gestion infrastructure IaaS  
-- Gestion permissions utilisateurs AWS  
+- Permissions utilisateurs AWS  
 - Administration Windows Server & Office 365  
 - Surveillance performances & sécurité  
-- Support et résolution d’incidents  
+- Support & incidents  
 
-### **Développeur Web & Applicatif – Stage (2024)**  
-**ZenChezSoi – 2 mois, Cotonou**  
-- Refonte complète d’un site WordPress  
+### Développeur Web – Stage (2024)  
+ZenChezSoi  
+- Refonte complète WordPress  
 - Optimisation SEO  
-- Développement front-end & back-end  
-- Mise en place d’un système de gestion interne
+- Développement front/back  
+- Outil de gestion interne  
 
-### **Préparateur de commandes – UPS Lyon (2024–2025)**  
-- Organisation, autonomie et coordination  
-- Respect des délais et priorités  
+### Préparateur de commandes – UPS (2024–2025)
+- Organisation  
+- Autonomie  
+- Gestion des priorités  
 
 ---
 
 ## 🚀 Projets
 
-### 🎮 **Idle City – Jeu vidéo (2025)**
-Projet SUPINFO – équipe de 4  
-- Conception et intégration des maquettes  
+### Idle City – Jeu vidéo (2025)
+SUPINFO – Équipe de 4  
+- Conception des maquettes  
 - Unity, C#, GitHub  
 
 ---
 
 ## 📘 Formation
-🎓 **SUPINFO Lyon**  
-Bachelor en informatique (en cours)  
-Modules :  
+
+SUPINFO Lyon  
+- Bachelor informatique (en cours)  
 - Linux Professional Institute  
 - Sécurisation systèmes & réseaux  
 - Cryptographie & chiffrement  
@@ -81,9 +82,9 @@ Modules :
 
 ## 📞 Contact
 
-- ✉️ **dossouyovoleon.pro@gmail.com**  
-- 📱 **07 66 71 18 85**  
-- 📁 CV disponible dans ce portfolio
+- Email : dossouyovoleon.pro@gmail.com  
+- Téléphone : 07 66 71 18 85  
+- CV disponible dans le dossier /CV  
 
 ---
 
